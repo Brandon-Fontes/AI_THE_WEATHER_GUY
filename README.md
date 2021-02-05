@@ -1,4 +1,4 @@
-# AI_THE_WEATHER_GUY
+# weather_time
 would you like to know the weather??
 of course you would 
 just search a city and click on the one you want
